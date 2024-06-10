@@ -1,0 +1,29 @@
+Software engineering is a systematic, disciplined, and quantifiable approach to the development, operation, and
+maintenance of software.It involves the application of engineering principles to software creation, 
+ensuring that the software is reliable, efficient, and meets the needs of users.
+
+Software Development Life Cycle (SDLC):
+Planning: Defining the project scope, objectives, and feasibility.
+Analysis: Detailed requirement gathering and analysis.
+Design: System and software design based on requirements.
+Implementation: Coding and developing the software.
+Testing: Verifying the software meets requirements and is bug-free.
+Deployment: Releasing the software to users.
+Maintenance: Ongoing support and evolution of the software.
+
+Comparison: Agile vs. Waterfall
+Flexibility:
+Waterfall: Inflexible, with fixed requirements and a linear progression.
+Agile: Highly flexible, allowing for changes in requirements even late in the project.
+Customer Involvement:
+Waterfall: Limited to initial requirements gathering and final delivery.
+Agile: Continuous involvement throughout the development process.
+Risk Management:
+Waterfall: Higher risk due to late testing and difficulty in handling changes.
+Agile: Lower risk with regular testing, feedback, and iterative improvements.
+Project Size and Complexity:
+Waterfall: Suited for smaller, well-defined projects with clear requirements.
+Agile: Better for complex, evolving projects where requirements may change.
+Documentation:
+Waterfall: Extensive documentation throughout each phase.
+Agile: Minimal documentation, focusing more on working software and collaboration.
